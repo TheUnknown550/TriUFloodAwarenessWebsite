@@ -1,6 +1,6 @@
 # 🌊 Flood Safety Trainer
 
-A gamified web application for practicing safe flood evacuation through interactive scenarios. Built with React, Vite, and Tailwind CSS. This was a workshop project during the The 31st Tri-U International Joint Seminar & Symposium (Tri-U 2025)
+A simple gamified web application for practicing safe flood evacuation through interactive scenarios. Built with React, Vite, and Tailwind CSS. This was a workshop project during the The 31st Tri-U International Joint Seminar & Symposium (Tri-U 2025)
 
 ## Features
 
